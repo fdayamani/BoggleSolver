@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+gradlew
+/build/
+*/DS_Store
+
+*.jar
+gradle/
+gradlew.bat
